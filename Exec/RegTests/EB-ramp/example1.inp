@@ -1,0 +1,9 @@
+# Define a single plane
+eb2.geom_type = "plane"
+
+# Define the point on the plane
+eb2.plane_point = 0.5 0.0 0.0 
+
+# Define the normal vector to the plane
+eb2.plane_normal = 0.2588 -0.9659 0.0 # Corresponds to a 15-degree ramp
+
